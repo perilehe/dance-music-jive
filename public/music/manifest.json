@@ -1,0 +1,94 @@
+{
+  "category": "牛仔",
+  "generated": "2026-08-17T00:59:18.155766",
+  "tracks": [
+    {
+      "id": "3028",
+      "title": "Funk",
+      "filename": "Funk_3028.mp3",
+      "size": 2586865,
+      "bpm": 172,
+      "section": 4,
+      "intro_beats": 8,
+      "category": "牛仔",
+      "category_abbr": "J"
+    },
+    {
+      "id": "5904",
+      "title": "Hey hey hey",
+      "filename": "Hey hey hey_5904.mp3",
+      "size": 2211538,
+      "bpm": 172,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "牛仔",
+      "category_abbr": "J"
+    },
+    {
+      "id": "1143",
+      "title": "Jive--Royals",
+      "filename": "Jive--Royals_1143.mp3",
+      "size": 3161141,
+      "bpm": 172,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "牛仔",
+      "category_abbr": "J"
+    },
+    {
+      "id": "15664",
+      "title": "Savage Love",
+      "filename": "Savage Love_15664.mp3",
+      "size": 2547577,
+      "bpm": 160,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "牛仔",
+      "category_abbr": "J"
+    },
+    {
+      "id": "4905",
+      "title": "savage love",
+      "filename": "savage love_4905.mp3",
+      "size": 2471926,
+      "bpm": 172,
+      "section": 4,
+      "intro_beats": 8,
+      "category": "牛仔",
+      "category_abbr": "J"
+    },
+    {
+      "id": "1169",
+      "title": "嘟嘟嘟比嘟比嘟 Letkiss",
+      "filename": "嘟嘟嘟比嘟比嘟 Letkiss_1169.mp3",
+      "size": 3069608,
+      "bpm": 174,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "牛仔",
+      "category_abbr": "J"
+    },
+    {
+      "id": "4491",
+      "title": "天_涯",
+      "filename": "天_涯_4491.mp3",
+      "size": 2997719,
+      "bpm": 120,
+      "section": 4,
+      "intro_beats": 4,
+      "category": "牛仔",
+      "category_abbr": "J"
+    },
+    {
+      "id": "2767",
+      "title": "慢速牛仔练习曲 Free Jump",
+      "filename": "慢速牛仔练习曲 Free Jump_2767.mp3",
+      "size": 2287188,
+      "bpm": 119,
+      "section": 4,
+      "intro_beats": 0,
+      "category": "牛仔",
+      "category_abbr": "J"
+    }
+  ]
+}
